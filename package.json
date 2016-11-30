@@ -6,6 +6,10 @@
   "bin": {
     "owen": "./bin/owen"
   },
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/starpit/owen.git"
+  },
   "author": "Nick Mitchell",
   "license": "Apache-2.0",
   "dependencies": {

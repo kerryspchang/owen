@@ -11,4 +11,4 @@ You are expected to have working OpenWhisk credentials. In particular, the file 
 
 If you can run wsk activation list without issue you are probably all set.
 
-Note that web requires Node 6 or later.
+Note that owen requires Node 6 or later.

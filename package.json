@@ -1,6 +1,6 @@
 {
   "name": "owen",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "OpenWhisk Entity Noodler: a browser for OpenWhisk entities",
   "main": "index.js",
   "bin": {

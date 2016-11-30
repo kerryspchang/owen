@@ -1,0 +1,19 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "A browser for OpenWhisk entities",
+  "main": "index.js",
+  "bin": {
+    "web": "./bin/web"
+  },
+  "author": "Nick Mitchell",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "argv": "0.0.2",
+    "colors": "^1.1.2",
+    "columnify": "^1.5.4",
+    "expand-home-dir": "0.0.3",
+    "openwhisk": "^2.6.0",
+    "properties-parser": "^0.3.1"
+  }
+}

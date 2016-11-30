@@ -1,10 +1,10 @@
 {
-  "name": "web",
+  "name": "owen",
   "version": "1.0.0",
-  "description": "A browser for OpenWhisk entities",
+  "description": "OpenWhisk Entity Noodler: a browser for OpenWhisk entities",
   "main": "index.js",
   "bin": {
-    "web": "./bin/web"
+    "owen": "./bin/owen"
   },
   "author": "Nick Mitchell",
   "license": "Apache-2.0",

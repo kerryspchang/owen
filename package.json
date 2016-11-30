@@ -1,14 +1,14 @@
 {
   "name": "owen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OpenWhisk Entity Noodler: a browser for OpenWhisk entities",
   "main": "index.js",
   "bin": {
     "owen": "./bin/owen"
   },
   "repository": {
-      "type" : "git",
-      "url" : "https://github.com/starpit/owen.git"
+    "type": "git",
+    "url": "https://github.com/starpit/owen.git"
   },
   "author": "Nick Mitchell",
   "license": "Apache-2.0",

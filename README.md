@@ -1,4 +1,7 @@
 # OpenWhisk Entity Noodler
+
+This tool provides a viewer over your OpenWhisk entities.
+
 Run:
 
  1. `npm install -g owen`

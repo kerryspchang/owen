@@ -10,6 +10,12 @@
     "type": "git",
     "url": "https://github.com/starpit/owen.git"
   },
+  "bugs": {
+     "url" : "https://github.com/starpit/owen/issues"
+  },
+  "keywords": [
+     "serverless", "openwhisk", "tools", "tool", "CLI"
+  ],
   "author": "Nick Mitchell",
   "license": "Apache-2.0",
   "dependencies": {

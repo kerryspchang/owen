@@ -1,6 +1,6 @@
 {
   "name": "owen",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "description": "OpenWhisk Entity Noodler: a browser for OpenWhisk entities",
   "main": "index.js",
   "bin": {
@@ -11,10 +11,14 @@
     "url": "https://github.com/starpit/owen.git"
   },
   "bugs": {
-     "url" : "https://github.com/starpit/owen/issues"
+    "url": "https://github.com/starpit/owen/issues"
   },
   "keywords": [
-     "serverless", "openwhisk", "tools", "tool", "CLI"
+    "serverless",
+    "openwhisk",
+    "tools",
+    "tool",
+    "CLI"
   ],
   "author": "Nick Mitchell",
   "license": "Apache-2.0",
